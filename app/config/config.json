@@ -1,10 +1,10 @@
 {
 	"db": {
-		"username": "<MongoDBUsername>",
-		"password": "<MongoDBPassword>",
-		"host": "<MongoDBHost>",
-		"port": "<MongoDBPort>",
-		"name": "<MongoDBName>"
+		"username": "vaibhaw",
+		"password": "Anand123!@#$",
+		"host": "ds249299.mlab.com",
+		"port": ":49299",
+		"name": "idol-chat"
 	},
 	"sessionSecret": "<RandomString>",
 	"facebook": {
