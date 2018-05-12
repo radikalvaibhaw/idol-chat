@@ -1,22 +1,7 @@
 {
-  "name": "Socket-Chat-Example",
-  "description": "my first socket.io app",
-  "website": "https://github.com/socketio/chat-example",
-  "repository": "https://github.com/socketio/chat-example",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "success_url": "/",
-  "keywords": [
-    "node",
-    "express",
-    "socket.io",
-    "realtime",
-    "websocket"
-  ],
-  "scripts": {
-  },
-  "addons": [
-  ],
-  "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
-  }
+  "name": "chat.io",
+  "description": "A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.",
+  "repository": "https://github.com/OmarElGabry/chat.io",
+  "logo": "https://raw.githubusercontent.com/OmarElGabry/chat.io/master/public/img/chat.io.PNG",
+  "keywords": ["real-time", "chat", "nodejs", "express", "mongoose", "socketio", "passport", "redis"]
 }
